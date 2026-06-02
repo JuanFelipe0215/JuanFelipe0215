@@ -65,7 +65,7 @@ var dev = new Developer {
 
 ---
 
-## Pac-Man Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
