@@ -1,97 +1,124 @@
-<!-- Header animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Juan+Felipe+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+C%23;Clean+Architecture+%7C+REST+APIs;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- ════════════════ HEADER ANIMADO ════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Juan%20Felipe%20Cardona&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20%7C%20Clean%20Architecture&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- ════════════════ TYPING ANIMADO ════════════════ -->
+<a href="https://github.com/JuanFelipe0215">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Always+building%2C+always+learning+%F0%9F%9A%80;C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+SQL+Server+%E2%80%A2+Docker;Clean+Architecture+%26+REST+APIs;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ════════════════ BADGES ════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=JuanFelipe0215&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/From-Medell%C3%ADn%2C%20Colombia-f97316?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Medellín"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanFelipe0215&color=7C3AED&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/From-Medell%C3%ADn%2C%20Colombia-F97316?style=flat-square" />
-</div>
-
-<br/>
-
----
-
-## About Me
+<!-- ════════════════ ABOUT ME ════════════════ -->
+## 🧬 About Me
 
 ```csharp
-var dev = new Developer {
+var dev = new Developer
+{
     Name        = "Juan Felipe Cardona Ríos",
     Age         = 20,
-    From        = "Medellín, Colombia ",
-    Focus       = "Backend · Clean Architecture · REST APIs",
-    Stack       = ["C#", "ASP.NET Core", ".NET", "SQL Server", "Docker"],
-    Learning    = "Microservices · Design Patterns · DevOps",
+    From        = "Medellín, Colombia 🇨🇴",
+    Role        = "Backend Developer",
+    Focus       = new[] { "Clean Architecture", "REST APIs", "Microservices" },
+    Stack       = new[] { "C#", "ASP.NET Core", ".NET", "SQL Server", "Docker" },
+    Learning    = new[] { "Design Patterns", "DevOps", "System Design" },
     Methodology = "SCRUM · Sprints · Code Reviews",
-    Languages   = ["Español (nativo)", "English (A1 — en progreso)"],
-    OpenToWork  = true
+    Languages   = new[] { "Español (nativo)", "English (en progreso 📈)" },
+    OpenToWork  = true,
+    Motto       = "Code that works is good. Code that lasts is better."
 };
 ```
 
----
+<br/>
 
-## Tech Universe & Ecosystem
-
-| Categoría | Tecnologías |
-|---|---|
-| **Backend Core** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Frontend & Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
-| **Docs & Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white) |
-
----
-
-## GitHub Analysis
+<!-- ════════════════ TECH STACK ════════════════ -->
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipe0215&theme=tokyonight&hide_border=true" />
+### 💻 Backend Core
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,php&theme=dark" alt="Backend"/>
 
-</div>
+### 🎨 Frontend & Web
+<img src="https://skillicons.dev/icons?i=js,html,css,laravel,tailwind&theme=dark" alt="Frontend"/>
 
----
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/>&nbsp;<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" alt="SQL Server"/>
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JuanFelipe0215&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman.svg" />
-</picture>
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanFelipe0215)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_PORTFOLIO.dev)
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,visualstudio&theme=dark" alt="Tools"/>
 
 </div>
 
 <br/>
 
+<!-- ════════════════ GITHUB STATS ════════════════ -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <i>"Be a coder, change your world" — Riwi</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&count_private=true" height="165" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipe0215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&langs_count=8" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=JuanFelipe0215&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="180" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanFelipe0215&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=6366F1&point=ffffff&area=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════ TROFEOS ════════════════ -->
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JuanFelipe0215&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophies"/>
+</div>
+
+<br/>
+
+<!-- ════════════════ FILOSOFÍA ════════════════ -->
+## 🎯 Current Mission
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  🔭 Building:   APIs robustas con Clean Architecture     │
+│  🌱 Learning:   Microservicios · Design Patterns · CI/CD │
+│  🎯 Goal 2026:  Dominar arquitectura de sistemas + EN B2 │
+│  💬 Ask me:     C# · ASP.NET Core · SQL Server · Docker  │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- ════════════════ CONTACTO ════════════════ -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:juanfe13q@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/JuanFelipe0215"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/juan-felipe-cardona-rios/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<!-- ════════════════ FOOTER ════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%"/>
+
 </div>
